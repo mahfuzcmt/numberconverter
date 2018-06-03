@@ -1,5 +1,5 @@
 
-## [BDT Decimal to Word Converter](https://pypi.org/project/engtobngnum/)
+## [Number Converter](https://pypi.org/project/numberconverter/)
 
 ## Prerequisites
 
@@ -34,5 +34,6 @@ or
 converter.convert_eng_to_bng(8.89)
 ```
 
+### [BDT Decimal To Words Converter ](https://github.com/mahfuzcmt/BanglaDecimalToWordConverter)
 
 ## Contact with [Author](https://www.fb.com/mahfuzcmt)
